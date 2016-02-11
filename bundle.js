@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/sarah/Documents/git-workspace/test/app/js/react-stampit.js: Unexpected token (58:14) while parsing file: /Users/sarah/Documents/git-workspace/test/app/js/react-stampit.js");
